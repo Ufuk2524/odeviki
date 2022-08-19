@@ -1,0 +1,9 @@
+#IDE- VSCode
+.vscode/*
+!.vscode/setting.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+#img
+*.img
