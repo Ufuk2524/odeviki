@@ -4,3 +4,4 @@
 
 - Başlık etiketleri kullanımı
 - Açıklama satırlarları oluşturmak
+- İmage, link ve blok elementlerle çalışma
